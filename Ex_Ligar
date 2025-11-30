@@ -1,0 +1,3 @@
+// Em um projeto de página web, é possível criar um arquivo de Javascript com a extensão “.js”;ainda, é preciso ligar os arquivos de Javascript ao arquivo HTML de seu projeto, e um exemplo decódigo que cumpre essa tarefa é o seguinte:
+
+<script src=> </script>
